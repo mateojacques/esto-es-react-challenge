@@ -1,0 +1,9 @@
+.header{
+    min-height: 50px;
+    background-color: #fff;
+}
+
+.projectBar h3{
+    font-weight: 700;
+    font-size: 1.3rem;
+}
