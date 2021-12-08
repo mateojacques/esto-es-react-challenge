@@ -91,7 +91,7 @@ const ProjectForm = ({ action, projectToEdit }) => {
         status: projectToEdit.status,
       });
     }
-  }, []);
+  }, [projectToEdit]);
 
   return (
     <div>
